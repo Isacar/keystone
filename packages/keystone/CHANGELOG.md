@@ -1,5 +1,17 @@
 # @keystonejs/keystone
 
+## 11.0.1
+
+### Patch Changes
+
+- [`1c69f4dc8`](https://github.com/keystonejs/keystone/commit/1c69f4dc8ab1eb23bc0a34850f48a51f2e9f1dce) [#3141](https://github.com/keystonejs/keystone/pull/3141) Thanks [@molomby](https://github.com/molomby)! - Adding URL formulation rules to the style guide.
+
+* [`950f23443`](https://github.com/keystonejs/keystone/commit/950f23443ef8f1a176a3cf6b039f93a29d954f5e) [#3138](https://github.com/keystonejs/keystone/pull/3138) Thanks [@MadeByMike](https://github.com/MadeByMike)! - Moved adapter mocks into test utils package.
+
+* Updated dependencies [[`c235e34c7`](https://github.com/keystonejs/keystone/commit/c235e34c7a72cd05b05b3d1af08c93c1e98a8e91), [`b693b2fa8`](https://github.com/keystonejs/keystone/commit/b693b2fa8a391d7f5bcfbea11061679bd4b559d8), [`950f23443`](https://github.com/keystonejs/keystone/commit/950f23443ef8f1a176a3cf6b039f93a29d954f5e)]:
+  - @keystonejs/fields@13.0.0
+  - @keystonejs/test-utils@6.2.0
+
 ## 11.0.0
 
 ### Major Changes
